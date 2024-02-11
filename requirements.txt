@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+datetime
+yfinance
+wikipedia
+wordcloud
+statistics
+statsmodels
+scikit-learn
+missingno
+textblob
+folium
